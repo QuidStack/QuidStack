@@ -105,7 +105,7 @@
 	}
 
 	.whot {
-	  font-size: 40px;
+	  font-size: 28px;
 	  color: #000000;
 	  text-align: center;
 	  font-family: 'Poppins', serif;
